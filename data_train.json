@@ -1,0 +1,107 @@
+[
+	{
+		"kelamin":"PERIA",
+		"status": "MAHASISWA",
+		"pernikahan": "BELUM",
+		"ipk": "3.17",
+		"keterangan": "TEPAT"
+	},
+	{
+		"kelamin":"PERIA",
+		"status": "BEKERJA",
+		"pernikahan": "BELUM",
+		"keterangan": "TEPAT",
+		"ipk": "3.30"
+	},
+	{
+		"kelamin":"PEREMPUAN",
+		"status": "MAHASISWA",
+		"ipk": "3.01",
+		"pernikahan": "BELUM",
+		"keterangan": "TEPAT"
+	},
+	{
+		"kelamin":"PEREMPUAN",
+		"pernikahan": "MENIKAH",
+		"status": "MAHASISWA",
+		"ipk": "3.25",
+		"keterangan": "TEPAT"
+	},
+	{
+		"kelamin":"PERIA",
+		"pernikahan": "MENIKAH",
+		"ipk": "3.20",
+		"status": "BEKERJA",
+		"keterangan": "TEPAT"
+	},
+	{
+		"kelamin":"PERIA",
+		"pernikahan": "MENIKAH",
+		"ipk": "2.50",
+		"status": "BEKERJA",
+		"keterangan": "TERLAMBAT"
+	},
+	{
+		"kelamin":"PEREMPUAN",
+		"status": "BEKERJA",
+		"pernikahan": "MENIKAH",
+		"ipk": "3.00",
+		"keterangan": "TERLAMBAT"
+	},
+	{
+		"kelamin":"PEREMPUAN",
+		"status": "BEKERJA",
+		"pernikahan": "BELUM",
+		"ipk": "2.70",
+		"keterangan": "TERLAMBAT"
+	},
+	{
+		"kelamin":"PERIA",
+		"status": "BEKERJA",
+		"pernikahan": "BELUM",
+		"ipk": "2.40",
+		"keterangan": "TERLAMBAT"
+	},
+	{
+		"kelamin":"PEREMPUAN",
+		"status": "MAHASISWA",
+		"pernikahan": "MENIKAH",
+		"ipk": "2.50",
+		"keterangan": "TERLAMBAT"
+	},
+	{
+		"kelamin":"PEREMPUAN",
+		"status": "MAHASISWA",
+		"pernikahan": "BELUM",
+		"ipk": "2.50",
+		"keterangan": "TERLAMBAT"
+	},
+	{
+		"kelamin":"PEREMPUAN",
+		"pernikahan": "BELUM",
+		"status": "MAHASISWA",
+		"ipk": "3.50",
+		"keterangan": "TEPAT"
+	},
+	{
+		"kelamin":"PERIA",
+		"status": "BEKERJA",
+		"ipk": "3.30",
+		"pernikahan": "MENIKAH",
+		"keterangan": "TEPAT"
+	},
+	{
+		"kelamin":"PERIA",
+		"pernikahan": "MENIKAH",
+		"ipk": "3.25",
+		"status": "MAHASISWA",
+		"keterangan": "TEPAT"
+	},
+	{
+		"kelamin":"PERIA",
+		"ipk": "2.30",
+		"status": "MAHASISWA",
+		"pernikahan": "BELUM",
+		"keterangan": "TERLAMBAT"
+	}
+]

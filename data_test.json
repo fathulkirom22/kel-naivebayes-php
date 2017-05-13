@@ -1,0 +1,26 @@
+[
+	{
+		"kelamin":"PERIA", 
+		"status":"MAHASISWA", 
+		"pernikahan":"BELUM", 
+		"ipk":"2.70"
+	},
+	{
+		"kelamin":"PERIA", 
+		"status":"MAHASISWA", 
+		"pernikahan":"BELUM", 
+		"ipk":"2.50"
+	},
+	{
+		"kelamin":"PERIA", 
+		"status":"MAHASISWA", 
+		"pernikahan":"BELUM", 
+		"ipk":"3.50"
+	},
+	{
+		"kelamin":"PERIA", 
+		"status":"MAHASISWA", 
+		"pernikahan":"MENIKAH", 
+		"ipk":"3.30"
+	}
+]
