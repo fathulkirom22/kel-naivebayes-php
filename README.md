@@ -1,4 +1,4 @@
-# kel-naivebayes-php
+# naivebayes-php
 this library Naive Bayes algorithm for PHP, with json file
 
 # File
