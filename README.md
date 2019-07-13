@@ -1,8 +1,8 @@
 # naivebayes-php
-this library Naive Bayes algorithm for PHP, with json file
+Naive Bayes algorithm implementation with PHP & json
 
 # File
-lib-NaiveBayes.php -> this library <br>
+lib-NaiveBayes.php -> Algorithm <br>
 train.json -> Knowledge of training outcomes (permision 777) <br>
 data_train -> example data for training <br>
 data_test.json -> example data for testing <br>
